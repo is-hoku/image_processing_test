@@ -11,3 +11,4 @@
 - [NegaPosi_Reversal](https://github.com/nono-n1I/image_processing_test/tree/master/NegaPosi_Reversal)・・・ネガ・ポジ反転
 - [Posterization](https://github.com/nono-n1I/image_processing_test/tree/master/Posterization)・・・ポスタリゼーション
 - [Solarization](https://github.com/nono-n1I/image_processing_test/tree/master/Solarization)・・・ソラリゼーション
+- [PseudoColor](https://github.com/nono-n1I/image_processing_test/tree/master/PseudoColor)・・・疑似カラー
