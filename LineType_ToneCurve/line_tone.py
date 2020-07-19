@@ -27,5 +27,5 @@ img = cv2.imread("./img/lenna_gray.jpeg")
 out1 = line_tone1(img, 2)
 out2 = line_tone2(img, 2)
 
-cv2.imwrite('./4_tone/line_tone1.png', out1)
-cv2.imwrite('./4_tone/line_tone2.png', out2)
+cv2.imwrite('./LineType_ToneCurve/line_tone1.png', out1)
+cv2.imwrite('./LineType_ToneCurve/line_tone2.png', out2)
