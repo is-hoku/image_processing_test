@@ -1,5 +1,5 @@
 # image_processing_test
-画像処理の練習用リポジトリ．OpenCVとnumpy．
+画像処理の練習用リポジトリです．OpenCVとnumpy．
 
 ## directory
 - [img](https://github.com/nono-n1I/image_processing_test/tree/master/img)・・・入力画像
