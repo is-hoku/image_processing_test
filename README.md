@@ -10,3 +10,4 @@
 - [Histogram_Equalization](https://github.com/nono-n1I/image_processing_test/tree/master/Histogram_Equalization)・・・ヒストグラム平坦化
 - [NegaPosi_Reversal](https://github.com/nono-n1I/image_processing_test/tree/master/NegaPosi_Reversal)・・・ネガ・ポジ反転
 - [Posterization](https://github.com/nono-n1I/image_processing_test/tree/master/Posterization)・・・ポスタリゼーション
+- [Solarization](https://github.com/nono-n1I/image_processing_test/tree/master/Solarization)・・・ソラリゼーション
