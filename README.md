@@ -13,3 +13,4 @@
 - [Solarization](https://github.com/nono-n1I/image_processing_test/tree/master/Solarization)・・・ソラリゼーション
 - [PseudoColor](https://github.com/nono-n1I/image_processing_test/tree/master/PseudoColor)・・・疑似カラー
 - [Alpha_Blending](https://github.com/nono-n1I/image_processing_test/tree/master/Alpha_Blending)・・・アルファブレンディング
+- [Emboss](https://github.com/nono-n1I/image_processing_test/tree/master/Emboss)・・・エンボス
