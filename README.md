@@ -20,3 +20,6 @@
 - [Derivative_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Derivative_Filter)・・・微分フィルタ
 - [Prewitt_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Prewitt_Filter)・・・プリューウィットフィルタ
 - [Sobel_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Sobel_Filter)・・・ソーベルフィルタ
+- [Laplacian_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Laplacian_Filter)・・・ラプラシアンフィルタ
+- [LoG_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/LoG_Filter)・・・LoGフィルタ
+- [DoG_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/DoG_Filter)・・・DoGフィルタ
