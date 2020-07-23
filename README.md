@@ -18,3 +18,5 @@
 - [Averaging_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Averaging_Filter)・・・平均化フィルタ
 - [Gaussian_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Gaussian_Filter)・・・ガウシアンフィルタ
 - [Derivative_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Derivative_Filter)・・・微分フィルタ
+- [Prewitt_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Prewitt_Filter)・・・プリューウィットフィルタ
+- [Sobel_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Sobel_Filter)・・・ソーベルフィルタ
