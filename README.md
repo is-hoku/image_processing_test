@@ -15,3 +15,5 @@
 - [Alpha_Blending](https://github.com/nono-n1I/image_processing_test/tree/master/Alpha_Blending)・・・アルファブレンディング
 - [Emboss](https://github.com/nono-n1I/image_processing_test/tree/master/Emboss)・・・エンボス
 - [MaskImage](https://github.com/nono-n1I/image_processing_test/tree/master/MaskImage)・・・マスク処理
+- [Averaging_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Averaging_Filter)・・・平均化フィルタ
+- [Gaussian_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Gaussian_Filter)・・・ガウシアンフィルタ
