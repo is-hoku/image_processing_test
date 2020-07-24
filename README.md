@@ -23,3 +23,8 @@
 - [Laplacian_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Laplacian_Filter)・・・ラプラシアンフィルタ
 - [LoG_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/LoG_Filter)・・・LoGフィルタ
 - [DoG_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/DoG_Filter)・・・DoGフィルタ
+- [Canny_EdgeDetector](https://github.com/nono-n1I/image_processing_test/tree/master/Canny_EdgeDetector)・・・Cannyエッジ検出
+- [Sharpning_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Sharpning_Filter)・・・鮮鋭化フィルタ
+- [Bilateral_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Bilateral_Filter)・・・バイラテラルフィルタ
+- [NLmeans_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/NLmeans_Filter)・・・ノンローカルミーンフィルタ
+- [Median_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Median_Filter)・・・メディアンフィルタ
