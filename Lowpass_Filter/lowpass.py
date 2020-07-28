@@ -31,4 +31,4 @@ def lowpass(img):
 
 img = cv2.imread("./img/lenna.jpeg", 0)
 out = lowpass(img)
-cv2.imwrite('./Fourier_Lowpass/lowpass.png', out)
+cv2.imwrite('./Lowpass_Filter/lowpass.png', out)

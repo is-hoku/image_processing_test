@@ -31,4 +31,4 @@ def highpass(img):
 
 img = cv2.imread("./img/lenna.jpeg", 0)
 out = highpass(img)
-cv2.imwrite('./Fourier_Highpass/highpass.png', out)
+cv2.imwrite('./Highpass_Filter/highpass.png', out)
