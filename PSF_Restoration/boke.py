@@ -18,7 +18,6 @@ fil = [[1/256, 4/256, 6/256, 4/256, 1/256],
 fil = np.fft.fft2(fil)
 fil = np.fft.fftshift(fil)
 fil = 20*np.log(np.abs(fil))
-# fil = np.where(fil == 0, 0, np.reciprocal(fil))
 fil = np.where(fil == 0, 0, 1/fil)
 
 out = cv2.filter2D(img, cv2.CV_64F, fil)
