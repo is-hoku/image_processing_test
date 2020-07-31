@@ -35,3 +35,4 @@
 - [HighEmphasis_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/HighEmphasis_Filter)・・・高域強調フィルタ
 - [PSF_Deterioration](https://github.com/nono-n1I/image_processing_test/tree/master/PSF_Deterioration)・・・画像の劣化(点拡がり関数)
 - [PSF_Restoration](https://github.com/nono-n1I/image_processing_test/tree/master/PSF_Restoration)・・・画像の復元(点拡がり関数)
+- [HDR_Image](https://github.com/nono-n1I/image_processing_test/tree/master/HDR_Image)・・・HDR画像生成(Mertens)
