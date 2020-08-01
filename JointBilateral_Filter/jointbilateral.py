@@ -31,9 +31,9 @@ def joint_bilateral(flash, non_flash, K_size=3, sigma1=1.3, sigma2=1.3):
 
     return out
 
-flash = cv2.imread("./img/lenna.jpeg")
-non_flash = cv2.imread("./img/lenna_noize.png")
+flash = cv2.imread("./img/Parrots.jpg")
+non_flash = cv2.imread("./img/Parrots_noize.png")
 
 out = joint_bilateral(flash, non_flash)
 
-cv2.imwrite("./JointBilateral_Filter/joint2.png", out)
+cv2.imwrite("./JointBilateral_Filter/joint.png", out)
