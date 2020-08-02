@@ -37,3 +37,7 @@
 - [PSF_Restoration](https://github.com/nono-n1I/image_processing_test/tree/master/PSF_Restoration)・・・画像の復元(点拡がり関数)
 - [HDR_Image](https://github.com/nono-n1I/image_processing_test/tree/master/HDR_Image)・・・HDR画像生成(Mertens)
 - [JointBilateral_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/JointBilateral_Filter)・・・ジョイントバイラテラルフィルタ
+- [Scaling](https://github.com/nono-n1I/image_processing_test/tree/master/Scaling)・・・拡大・縮小
+- [Rotation](https://github.com/nono-n1I/image_processing_test/tree/master/Rotation)・・・回転
+- [Reflection](https://github.com/nono-n1I/image_processing_test/tree/master/Reflection)・・・鏡映
+- [Skewing](https://github.com/nono-n1I/image_processing_test/tree/master/Skewing)・・・スキュー
