@@ -44,3 +44,4 @@
 - [NearestNeighbor](https://github.com/nono-n1I/image_processing_test/tree/master/NearestNeighbor)・・・二アレストネイバー
 - [Bilinear_Interpolation](https://github.com/nono-n1I/image_processing_test/tree/master/Bilinear_Interpolation)・・・バイリニア補間
 - [Bicubic_Interpolation](https://github.com/nono-n1I/image_processing_test/tree/master/Bicubic_Interpolation)・・・バイキュービック補間
+- [ImageMosaicing](https://github.com/nono-n1I/image_processing_test/tree/master/ImageMosaicing)・・・イメージモザイキング
