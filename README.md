@@ -45,3 +45,7 @@
 - [Bilinear_Interpolation](https://github.com/nono-n1I/image_processing_test/tree/master/Bilinear_Interpolation)・・・バイリニア補間
 - [Bicubic_Interpolation](https://github.com/nono-n1I/image_processing_test/tree/master/Bicubic_Interpolation)・・・バイキュービック補間
 - [ImageMosaicing](https://github.com/nono-n1I/image_processing_test/tree/master/ImageMosaicing)・・・イメージモザイキング
+- [P-Tile_Method](https://github.com/nono-n1I/image_processing_test/tree/master/P-Tile_Method)・・・Pタイル法
+- [DiscriminantAnalysis_Method](https://github.com/nono-n1I/image_processing_test/tree/master/DiscriminantAnalysis_Method)・・・判別分析法
+- [Contour_Tracking](https://github.com/nono-n1I/image_processing_test/tree/master/Contour_Tracking)・・・輪郭追跡
+- [Erosion_and_Dilation](https://github.com/nono-n1I/image_processing_test/tree/master/Erosion_and_Dilation)・・・収縮・膨張処理
