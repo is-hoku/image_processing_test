@@ -49,3 +49,5 @@
 - [DiscriminantAnalysis_Method](https://github.com/nono-n1I/image_processing_test/tree/master/DiscriminantAnalysis_Method)・・・判別分析法
 - [Contour_Tracking](https://github.com/nono-n1I/image_processing_test/tree/master/Contour_Tracking)・・・輪郭追跡
 - [Erosion_and_Dilation](https://github.com/nono-n1I/image_processing_test/tree/master/Erosion_and_Dilation)・・・収縮・膨張処理
+- [Labeling](https://github.com/nono-n1I/image_processing_test/tree/master/Labeling)・・・ラベリング
+- [GeometricFeature_Parameter](https://github.com/nono-n1I/image_processing_test/tree/master/GeometricFeature_Parameter)・・・形状特徴パラメータ
