@@ -53,17 +53,17 @@ def posterization(img, n):
     return cv2.LUT(img, look_up_table)
 
 
-img = cv2.imread("./img/lenna.jpeg", 0)
-img = [[0, 0, 1, 1],
-       [0, 0, 1, 1],
-       [0, 2, 2, 2],
-       [2, 2, 3, 3]]
-img = np.array(img)
+img = cv2.imread("./img/Parrots.jpg", 0)
+# img = [[0, 0, 1, 1],
+#        [0, 0, 1, 1],
+#        [0, 2, 2, 2],
+#        [2, 2, 3, 3]]
+# img = np.array(img)
 
 n = 4
 out = img
-# out = posterization(img, n)
-# out = out // (out.max() // (n-1))
+out = posterization(img, n)
+out = out // (out.max() // (n-1))
 out0 = cooccurrence_0(out)
 print(out0)
 out45 = cooccurrence_45(out)
