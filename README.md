@@ -54,3 +54,4 @@
 - [ZhangSuen](https://github.com/nono-n1I/image_processing_test/tree/master/ZhangSuen)・・・細線化(Zhang-Suenの方法)
 - [Gabor_Filter](https://github.com/nono-n1I/image_processing_test/tree/master/Gabor_Filter)・・・ガボールフィルタ
 - [CoOccurrence_Matrix](https://github.com/nono-n1I/image_processing_test/tree/master/CoOccurrence_Matrix)・・・同時生起行列
+- [GraphCut](https://github.com/nono-n1I/image_processing_test/tree/master/GraphCut)・・・グラフカット
