@@ -33,7 +33,7 @@ def saliency_map(pyramid):
     return out
 
 
-img = cv2.imread("./img/lenna.jpeg")
+img = cv2.imread("./img/glider.jpeg")
 
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
