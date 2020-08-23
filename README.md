@@ -63,3 +63,4 @@
 - [Point_Matching](https://github.com/nono-n1I/image_processing_test/tree/master/Point_Matching)・・・対応点マッチング
 - [HoughTransform](https://github.com/nono-n1I/image_processing_test/tree/master/HoughTransform)・・・ハフ変換
 - [SaliencyMap](https://github.com/nono-n1I/image_processing_test/tree/master/SaliencyMap)・・・顕著性マップ，シームカービング
+- [NearestNeighbor_Method](https://github.com/nono-n1I/image_processing_test/tree/master/NearestNeighbor_Method)・・・NN法，kNN法
