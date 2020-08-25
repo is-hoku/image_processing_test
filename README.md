@@ -64,3 +64,5 @@
 - [HoughTransform](https://github.com/nono-n1I/image_processing_test/tree/master/HoughTransform)・・・ハフ変換
 - [SaliencyMap](https://github.com/nono-n1I/image_processing_test/tree/master/SaliencyMap)・・・顕著性マップ，シームカービング
 - [NearestNeighbor_Method](https://github.com/nono-n1I/image_processing_test/tree/master/NearestNeighbor_Method)・・・NN法，kNN法
+- [KMeans_Method](https://github.com/nono-n1I/image_processing_test/tree/master/KMeans_Method)・・・k-means法
+- [PrincipalComponent_Analysis](https://github.com/nono-n1I/image_processing_test/tree/master/PrincipalComponent_Analysis)・・・主成分分析
