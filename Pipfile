@@ -10,6 +10,7 @@ opencv-python = "*"
 numpy = "*"
 matplotlib = "*"
 opencv-contrib-python = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
