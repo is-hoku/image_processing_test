@@ -29,5 +29,4 @@ print('正解率(train):{:.3f}'.format(model.score(X_train_std, y_train)))
 print('正解率(test):{:.3f}'.format(model.score(X_test_std, y_test)))
 
 bush = cv2.imread('./img/bush.jpg', 0)
-print(lfw.target[100])
-print(model.predict(bush.reshape(1, 1850)))
+print(lfw.target_names[model.predict(bush.reshape(1, 1850))])
