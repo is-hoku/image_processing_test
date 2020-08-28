@@ -105,7 +105,6 @@ print(np.argmax(six))
 
 seven = cv2.imread('./img/7.png', 0)
 seven = cv2.resize(seven, (28, 28))
-cv2.imwrite('./NeuralNetwork/7.png', seven)
 seven = model.predict(seven.reshape(-1, 784)/255.0)
 print(np.argmax(seven))
 
