@@ -4,6 +4,7 @@ import cv2
 img = cv2.imread('./img/person.png')
 hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
+# winStride: ウィンドウの移動量，padding: パディング，scale: スケール
 hogParams = {'winStride': (8, 8), 'padding': (32, 32), 'scale': 1.05}
 human, r = hog.detectMultiScale(img, **hogParams)
 for(x, y, w, h) in human:
