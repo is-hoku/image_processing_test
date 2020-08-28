@@ -66,3 +66,10 @@
 - [NearestNeighbor_Method](https://github.com/nono-n1I/image_processing_test/tree/master/NearestNeighbor_Method)・・・NN法，kNN法
 - [KMeans_Method](https://github.com/nono-n1I/image_processing_test/tree/master/KMeans_Method)・・・k-means法
 - [PrincipalComponent_Analysis](https://github.com/nono-n1I/image_processing_test/tree/master/PrincipalComponent_Analysis)・・・主成分分析
+- [Adaboost](https://github.com/nono-n1I/image_processing_test/tree/master/Adaboost)・・・アダブースト
+- [SupportVectorMachine](https://github.com/nono-n1I/image_processing_test/tree/master/SupportVectorMachine)・・・サポートベクタマシン
+- [RandomForest](https://github.com/nono-n1I/image_processing_test/tree/master/RandomForest)・・・ランダムフォレスト
+- [Haar-like](https://github.com/nono-n1I/image_processing_test/tree/master/Haar-like)・・・Haar-like特徴量
+- [HOG](https://github.com/nono-n1I/image_processing_test/tree/master/HOG)・・・HOG特徴量
+- [NeuralNetwork](https://github.com/nono-n1I/image_processing_test/tree/master/NeuralNetwork)・・・ニューラルネットワーク
+- [CNN](https://github.com/nono-n1I/image_processing_test/tree/master/CNN)・・・CNN(畳み込みニューラルネットワーク)
